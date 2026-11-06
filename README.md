@@ -1,7 +1,9 @@
 # eShop Order Totals on .NET
 
-A fictional order calculator targeting .NET 10. The console application
+A sample application used for testing, targeting .NET 10. The console application
 calculates a total from a unit price, quantity, and discount percentage.
+
+**For testing only:** This sample is not intended for production use.
 
 ## Run locally
 
